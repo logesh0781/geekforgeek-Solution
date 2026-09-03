@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1">Max and Min in Binary Tree</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given the root of a Binary Tree, find the maximum and minimum element present in the tree.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>root[] = [2, 7, 5, N, 6, N, 9, 1, 11, 4]
+</span> <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700559/Web/Other/blobid0_1785586600.png" width="232" height="241"><br><span style="font-size: 18px;"><strong>Output: </strong>11 1
+<strong>Explanation:</strong></span> <span style="font-size: 18px;">The maximum and minimum element in this binary tree is 11 and 1 respectively.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>root[] = [6, 5, 8, 2]</span>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700559/Web/Other/blobid1_1785586627.png" width="237" height="182"><br><span style="font-size: 18px;"><strong>Output: </strong>8 2<br><strong>Explanation: </strong></span><span style="font-size: 14pt;">The maximum and minimum element in this binary tree is 8 and 2 respectively.</span></pre>
+</div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Tree</code>&nbsp;
